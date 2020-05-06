@@ -1,0 +1,5 @@
+Django
+asgiref
+pytz
+sqlparse
+django-crispy-forms
